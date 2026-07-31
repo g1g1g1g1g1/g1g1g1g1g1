@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Jiwon 👋
 
-<!--
-**g1g1g1g1g1/g1g1g1g1g1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Experience
+Senior Associate Software Engineer @ Capital One [Jul. 2026 - Present]
+- Turing team
+- Developing in-house cache with Rust, RocksDB, and Redis (RESP)
+Associate Software Engineer @ Capital One [Aug. 2025 - Jul. 2026]
+- Bank Modernization team
+- Developed microservice with Golang, AWS ECS Fargate, and DynamoDB
 
-Here are some ideas to get you started:
+🌱 Interests
+Distributed Backends & Microservices
+Competitive Programming & Algorithms
+Systems Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏫 Education
+Bachelor of Science in Computer Science @ Purdue University [Aug. 2021 - May 2025]
