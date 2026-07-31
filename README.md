@@ -1,4 +1,4 @@
-## Hi, I'm Jiwon 👋
+### Hi, I'm Jiwon 👋
 
 ### 💼 Experience
 **Senior Associate Software Engineer** @ Capital One [Jul 2026 - Present]
