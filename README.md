@@ -1,7 +1,7 @@
 ### Hi, I'm Jiwon 👋
 
 ### 💼 Experience
-**Senior Associate Software Engineer** @ Capital One [Jul 2026 - Present]
+**Senior Associate Software Engineer** @ Capital One [Aug 2026 - Present]
 - Turing Team
 - Will be developing in-house distributed cache using Rust, RocksDB, and Redis (RESP)
 
